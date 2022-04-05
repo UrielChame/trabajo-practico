@@ -1,0 +1,15 @@
+.contenedor{ 
+   background-color: rgba(0, 0, 255, 0.726); 
+   padding: 100px;
+   display: flex;
+}
+.caja{
+    background-color: yellow;
+    width: 300px;
+    height: 200px;
+    margin: 50px;
+}
+img {
+    height: 200px;
+    width: 300px;
+}
